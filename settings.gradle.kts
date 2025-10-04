@@ -24,7 +24,7 @@ dependencyResolutionManagement {
             }
             credentials {
                 username = "mapbox"
-                password = "sk.eyJ1IjoiaGFpZGVybXVydGF6YSIsImEiOiJjbHFxOGR6emE0YXJpMmp0a3cyZjdqdWRpIn0.lNKI6LRNmPMPpCrTRrU0_w"
+                password = "sk.3333.lNKI6LRNmPMPpCrTRrU0_w"
             }
         }
     }
